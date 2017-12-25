@@ -34,6 +34,7 @@ Zhenya_Bocharov
 Vladimir_Bondarenko
 Alexey_Yunicki
 Evgen_Kozlov
+Mario_Brossi
 Nazar_Mahinko
 Zhan_Dicaprio
 Robert_Munson
